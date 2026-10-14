@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋 
 
-<!--
-**AntoBit96/AntoBit96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Data Engineer with a passion for working in the cloud, particularly Google Cloud Platform. Here, you’ll find some of my proof of concepts and quirky experiments that I’ve shared with my team or worked on for fun. 😄
 
-Here are some ideas to get you started:
+## A little about me 🧑‍💻
+- 💼 **Data Engineer** @ **Jakala** 🐊
+- ☁️ Specializing in **Google Cloud Platform (GCP)**
+- 🐍 Skilled in **Python** and **SQL**
+- 🌱 Currently learning **JavaScript** for dataform
+- 🔍 Curious by nature, always exploring new tools and tech!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What to expect here
+Every now and then, I’ll drop in a proof of concept I’ve built for work, or some offbeat experiments from my learning journey. You might find:
+- ✨ Data pipelines and ETL examples
+- 📊 Analytics tools and SQL scripts
+- ☁️ Cloud architecture samples
+- 🤖 Fun with automation and APIs
+
+## Get in touch!
+Feel free to reach out if you want to chat about anything cloud, data, or just to share some ideas. Let’s learn together! 😊
+
+Happy coding! 🎉
